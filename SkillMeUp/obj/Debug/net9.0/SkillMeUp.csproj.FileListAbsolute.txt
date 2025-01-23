@@ -1,0 +1,15 @@
+A:\01 Coding\.001 MSSA\SkillMeUp\Working_With_Number_Types\SkillMeUp\bin\Debug\net9.0\SkillMeUp.exe
+A:\01 Coding\.001 MSSA\SkillMeUp\Working_With_Number_Types\SkillMeUp\bin\Debug\net9.0\SkillMeUp.deps.json
+A:\01 Coding\.001 MSSA\SkillMeUp\Working_With_Number_Types\SkillMeUp\bin\Debug\net9.0\SkillMeUp.runtimeconfig.json
+A:\01 Coding\.001 MSSA\SkillMeUp\Working_With_Number_Types\SkillMeUp\bin\Debug\net9.0\SkillMeUp.dll
+A:\01 Coding\.001 MSSA\SkillMeUp\Working_With_Number_Types\SkillMeUp\bin\Debug\net9.0\SkillMeUp.pdb
+A:\01 Coding\.001 MSSA\SkillMeUp\Working_With_Number_Types\SkillMeUp\obj\Debug\net9.0\SkillMeUp.GeneratedMSBuildEditorConfig.editorconfig
+A:\01 Coding\.001 MSSA\SkillMeUp\Working_With_Number_Types\SkillMeUp\obj\Debug\net9.0\SkillMeUp.AssemblyInfoInputs.cache
+A:\01 Coding\.001 MSSA\SkillMeUp\Working_With_Number_Types\SkillMeUp\obj\Debug\net9.0\SkillMeUp.AssemblyInfo.cs
+A:\01 Coding\.001 MSSA\SkillMeUp\Working_With_Number_Types\SkillMeUp\obj\Debug\net9.0\SkillMeUp.csproj.CoreCompileInputs.cache
+A:\01 Coding\.001 MSSA\SkillMeUp\Working_With_Number_Types\SkillMeUp\obj\Debug\net9.0\SkillMeUp.sourcelink.json
+A:\01 Coding\.001 MSSA\SkillMeUp\Working_With_Number_Types\SkillMeUp\obj\Debug\net9.0\SkillMeUp.dll
+A:\01 Coding\.001 MSSA\SkillMeUp\Working_With_Number_Types\SkillMeUp\obj\Debug\net9.0\refint\SkillMeUp.dll
+A:\01 Coding\.001 MSSA\SkillMeUp\Working_With_Number_Types\SkillMeUp\obj\Debug\net9.0\SkillMeUp.pdb
+A:\01 Coding\.001 MSSA\SkillMeUp\Working_With_Number_Types\SkillMeUp\obj\Debug\net9.0\SkillMeUp.genruntimeconfig.cache
+A:\01 Coding\.001 MSSA\SkillMeUp\Working_With_Number_Types\SkillMeUp\obj\Debug\net9.0\ref\SkillMeUp.dll
